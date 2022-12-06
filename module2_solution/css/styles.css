@@ -1,0 +1,50 @@
+* {
+   box-sizing: border-box;
+
+}
+h1{
+  text-align: center;
+  font-family: 'Brush Script MT', cursive;
+  margin-bottom: 50px;
+}
+h2{
+ border: 1px solid black;
+}
+div #ch {
+  background-color: #A52A2A;
+    }
+div #be {
+  background-color: #DEB887;
+    }
+div #su {
+  background-color: #5F9EA0;
+    }
+
+.column1 {
+  background-color: aqua;
+  border: 1px solid black;
+  float: left;
+  width: 30%;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+
+}
+.column2 {
+  background-color: lightcyan;
+  border: 1px solid black;
+  float: left;
+  width: 30%;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.column3 {
+  background-color: lightblue;
+  border: 1px solid black;
+  float: left;
+  width: 30%;
+  padding: 10px;
+  margin-left: 10px;
+  
+}
